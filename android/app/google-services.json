@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "212053499795",
+    "project_id": "kpdluyoruz5proje",
+    "storage_bucket": "kpdluyoruz5proje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212053499795:android:77423f23c7fa930ea61266",
+        "android_client_info": {
+          "package_name": "com.week_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212053499795-65jfi7fqvovu6peed39emn2a71sac700.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqUTFHUiMtAuJBbs35SJ_FI5PC20zlrGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212053499795-65jfi7fqvovu6peed39emn2a71sac700.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
